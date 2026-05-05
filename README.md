@@ -94,7 +94,7 @@ This separation means every recommendation is traceable back to a rule, not just
 
 ---
 
-## Production upgrades (interview talking points)
+## Production upgrades
 
 1. Replace `inventory.json` with a live Shopify or NetSuite API call
 2. Add a competitor price-change feed (even a simple weekly scraper)
