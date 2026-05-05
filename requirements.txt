@@ -1,0 +1,6 @@
+streamlit
+anthropic
+pytrends
+requests
+python-dotenv
+pandas

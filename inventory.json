@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Linen shirts",
+      "current_inventory": 340,
+      "sell_through_rate": 0.62,
+      "weeks_of_supply": 6,
+      "last_week_units_sold": 58
+    },
+    {
+      "name": "Swim trunks",
+      "current_inventory": 820,
+      "sell_through_rate": 0.38,
+      "weeks_of_supply": 14,
+      "last_week_units_sold": 42
+    },
+    {
+      "name": "Resort dresses",
+      "current_inventory": 210,
+      "sell_through_rate": 0.71,
+      "weeks_of_supply": 3,
+      "last_week_units_sold": 67
+    },
+    {
+      "name": "Fleece pullovers",
+      "current_inventory": 590,
+      "sell_through_rate": 0.22,
+      "weeks_of_supply": 22,
+      "last_week_units_sold": 18
+    },
+    {
+      "name": "Board shorts",
+      "current_inventory": 445,
+      "sell_through_rate": 0.51,
+      "weeks_of_supply": 9,
+      "last_week_units_sold": 48
+    }
+  ]
+}
