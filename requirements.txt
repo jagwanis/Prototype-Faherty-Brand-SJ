@@ -4,3 +4,6 @@ pytrends
 requests
 python-dotenv
 pandas
+groq
+google-generativeai
+openai
